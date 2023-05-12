@@ -1,9 +1,9 @@
 # QR scanner Raspberry Pi
 ![output image]( https://qengineering.eu/images/QR.webp )
-## QR and barcode scanner for the Raspberry Pi 3 and 4 (32 and 64 bit OS). <br/>
+## QR and barcode scanner for the Raspberry Pi 4 (64 bit OS). <br/>
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 Special made for a bare Raspberry Pi see : [Q-engineering computer vision](https://qengineering.eu/computer-vision-with-raspberry-pi-and-alternatives.html).
-
+Specific modification of QEngineering's QR Scanner
 
 ------------
 
